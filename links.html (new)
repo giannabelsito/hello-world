@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Special Links</title>
+-<head>
+<body>
+<h1>First Paragraph</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ipsum mi, tristique id feugiat sed, pulvinar non felis. Donec fermentum ligula in mauris dapibus auctor. Curabitur venenatis nunc vehicula orci mollis, id viverra odio ultricies. Etiam ultricies gravida metus, vitae mollis mi feugiat et. Cras a nisl quis sapien lacinia aliquam id vitae sem. Phasellus euismod velit eu massa imperdiet volutpat. Nullam non placerat lacus. Sed eget erat odio. Nulla a purus id magna sagittis bibendum ac vel eros. Maecenas sed velit vitae nulla sodales scelerisque. Phasellus et enim mi. Vestibulum sed auctor enim. Fusce ac dolor nec erat efficitur dictum. Integer efficitur dictum metus. 
+<img src="pic_trulli.jpg" alt="Italian Trulli">
+<h1>Second Paragraph</h1>
+<p>Nullam suscipit imperdiet est id volutpat. Nam semper sodales ipsum non tristique. Suspendisse lacinia rhoncus augue, mollis ornare purus bibendum pellentesque. Vivamus non nibh tincidunt, volutpat orci eu, vehicula nisi. Pellentesque pretium tellus a nibh ullamcorper, at condimentum tellus ornare. Nulla luctus auctor tempus. Praesent sollicitudin viverra eleifend. 
+<li>First</li>
+<li>Second</li>
+<li>Third</li>
+<li>Fourth</li>
+<Fith</li>
+<h1>Third Paragraph</h1>
+<p>Pellentesque risus neque, pulvinar eu sem et, feugiat interdum risus. Morbi id nunc id purus lacinia hendrerit ac id risus. Nunc non augue eget tortor fermentum dapibus vitae in dui. Nullam ligula risus, congue eu neque ac, lacinia imperdiet nunc. Nullam efficitur placerat efficitur. Duis nec placerat velit. Nulla vitae dignissim neque. Vivamus molestie lacinia mi, vel finibus velit vulputate a. Pellentesque fringilla dolor diam, sit amet varius eros euismod at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+
+<a href="https://notepad-plus-plus.org"<Notepad ++</a><br>
+<a href="https://github.com?">Git Hub</a><br>
+<a href="https://w3schools.com/"w3 Schools</a><br>
+
+</body>
+
+</html>
